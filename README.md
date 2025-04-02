@@ -3,3 +3,5 @@
 Eric Wang's User Page
 
 My favorite language is Python.
+
+Link to my [GitHub page](index.md)
