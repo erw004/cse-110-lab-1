@@ -22,7 +22,7 @@ As I've told you, I like movies and shows. Here's some shows I planned to watch 
 
 ### About me as a programmer
 
-My favorite language is Python because of its ease and versatility. Additionally, its the language we use for AI/ML, which are fields I want to further pursue in career or potentially academic research.
+My favorite language is **Python** because of its ease and versatility. Additionally, its the language we use for AI/ML, which are fields I want to further pursue in career or potentially academic research.
 
 Because I need quoting code, I will add a snippet of Hello World below in Python.
 
