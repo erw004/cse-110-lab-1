@@ -14,11 +14,11 @@ I really resonate with the messaging of the show and really enjoy the comedic bi
 
 As I've told you, I like movies and shows. Here's some shows I planned to watch this year. I've marked the ones I've watched so far.
 
-- [x] Game of Thrones
-- [ ] Squid Game
-- [x] Ozark
-- [x] Cobra Kai
-- [ ] Dark
+[x] Game of Thrones
+[ ] Squid Game
+[x] Ozark
+[x] Cobra Kai
+[ ] Dark
 
 ### About me as a programmer
 
