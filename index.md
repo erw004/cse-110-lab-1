@@ -1,8 +1,8 @@
 # Eric Wang Webpage
 
 ## Table of Contents
-    - [About me](#about-me)
-    - [About me as a programmer](#about-me-as-a-programmer)
+- [About me](#about-me)
+- [About me as a programmer](#about-me-as-a-programmer)
 
 ### About me
 
