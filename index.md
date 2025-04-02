@@ -1,8 +1,6 @@
 # Eric Wang Webpage
 
 ## Table of Contents
-- [Eric Wang Webpage](#eric-wang-webpage)
-  - [Table of Contents](#table-of-contents)
     - [About me](#about-me)
     - [About me as a programmer](#about-me-as-a-programmer)
 
