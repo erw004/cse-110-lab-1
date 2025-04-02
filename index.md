@@ -10,7 +10,7 @@ I like a lot of things, especially watching movies and shows. My favorite show i
 
 > Strike fast, strike hard, no mercy!
 
-![Image](Screenshot 2025-04-02 160914.png)
+![image](https://github.com/user-attachments/assets/d41b5087-a037-477c-b763-6b081a344227)
 
 I really resonate with the messaging of the show and really enjoy the comedic bits. So, like the show, I preach sticking up for yourself no matter what and being light-hearted.
 
